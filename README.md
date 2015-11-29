@@ -1,5 +1,5 @@
-# Effective-Objective-C-2.0-
-Effective Objective-C 2.0 笔记
+# Effective-Objective-C-2.0 阅读记录
+Effective Objective-C 2.0 阅读记录
 
 ### 第一章 熟悉Objective-C
 * 第一条：了解Objective-C语言的起源
