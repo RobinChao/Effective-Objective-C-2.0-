@@ -2,7 +2,7 @@
 Effective Objective-C 2.0 阅读记录
 
 ### 第一章 熟悉Objective-C
-* 第一条：了解Objective-C语言的起源
+* [第一条：了解Objective-C语言的起源](./第一条：了解objective-c语言的起源.md)
 * 第二条：再累的头文件中尽量少引入其他头文件
 * 第三条：多用字面量语法，少用与之等价的方法
 * 第四条：多用类型常量，少用#define预处理命令
